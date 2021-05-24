@@ -1,0 +1,30 @@
+.nav-menu {
+    background-color: #727e8b!important;
+    height:100%;
+    width:100%;
+    display:flex;
+    justify-content:center;
+    color: white !important;
+}
+
+.nav-menu-items {
+    width:100% !important;
+    padding-inline-start: 0px !important;
+    margin-bottom:0px !important;
+}
+
+.nav-text {
+    display:flex;
+    align-items:center !important;
+    padding:8px 16px 8px 100px;
+    list-style: none;
+    height: 60px;
+}
+
+.nav-text:hover {
+    background-color: #343a40!important;
+}
+
+.topicsImg {
+    margin:20px
+}
